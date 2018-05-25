@@ -12,4 +12,17 @@ Página web de los repositorios para la asignatura.
 [Nombre del repositorio GitLab con ejercicios :](http://fls789-hmis18-vm1.eastus.cloudapp.azure.com/mgl958/hmis18-sesion03-git.git)   
  
  
+
+### Sesion 04
+
+[URL de la página de equipo](http://equipoa-hmis18-vm3.eastus.cloudapp.azure.com)
+
+[Repositorio GitHub de la página de equipo](https://github.com/pacodos222/sesion04-hmis) 
+
+[Repositorio forqueado de la página del equipo](https://github.com/Miguelons11/sesion04-hmis)
+
+
+
+
+
 Miguel García López
